@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "271592153667",
+    "firebase_url": "https://metro-app-5c746.firebaseio.com",
+    "project_id": "metro-app-5c746",
+    "storage_bucket": "metro-app-5c746.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271592153667:android:6c4cc201c686b724",
+        "android_client_info": {
+          "package_name": "com.jojo.metroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271592153667-1vb316akvs3qvq74m7mjk38e8tusos6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jojo.metroapp",
+            "certificate_hash": "8b44f4f1cf1eee7d6921e2c7491a971bd4c5fb2f"
+          }
+        },
+        {
+          "client_id": "271592153667-3o0qqlk40hb2j2h77oho3k43qjqcvq13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcCzKfUo3bhOMbpkCCC_--0hoUg9to0W4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271592153667-3o0qqlk40hb2j2h77oho3k43qjqcvq13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
